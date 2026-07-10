@@ -6,9 +6,6 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
-# GitHub Pages
-url: "https://dilnafisghayrat.github.io"
-baseurl: ""
 
 # Layout
 

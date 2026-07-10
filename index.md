@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: ""
 ---
 
 I am a project researcher in the [Research Institute of Economics and Business Administration](https://www.rieb.kobe-u.ac.jp/en/index.html), Kobe University. My main areas of interest are in applied microeconomics, 

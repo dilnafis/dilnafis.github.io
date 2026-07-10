@@ -1,38 +1,8 @@
 ---
 layout: page
-title:
+title: ""
 ---
 
-<section class="home-profile">
-
-  <div class="home-profile-photo">
-    <img
-      src="{{ '/assets/images/profile.jpg' | relative_url }}"
-      alt="Dinafeisi Aireti"
-    >
-  </div>
-
-  <div class="home-profile-text">
-    <h1>Dinafeisi Aireti</h1>
-
-    <p class="home-subtitle">
-  
-
-    <p>
-    
-     I am a project researcher in the [Research Institute of Economics and Business Administration](https://www.rieb.kobe-u.ac.jp/en/index.html), Kobe University. My main areas of interest are in applied microeconomics, 
+I am a project researcher in the [Research Institute of Economics and Business Administration](https://www.rieb.kobe-u.ac.jp/en/index.html), Kobe University. My main areas of interest are in applied microeconomics, 
 primarily at the intersection of development economics, health economics, and personality psychology. My doctoral research focused on the Sri Lankan Civil War, specifically the effects of war exposure on health, labor market choices, 
 and the formation of beliefs and preferences. I am particularly interested in how beleifs, skills, and identities are formed, as well as their role in social integration.
-    </p>
-
-
-    <p class="home-links">
-      <a href="{{ '/research/' | relative_url }}">Research</a>
-      <span>·</span>
-      <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
-      <span>·</span>
-      <a href="{{ '/cv/' | relative_url }}">CV</a>
-    </p>
-  </div>
-
-</section>

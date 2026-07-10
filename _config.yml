@@ -19,13 +19,15 @@ show_social: true               # show site description and social links in the 
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+  - {file: "index.html", title: "About me}
+  - {file: "README.md",title: "CV" }
+  - {file: "README.md",title: "Teaching" }
+  - {file: "README.md",title: "Research" }
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:dilnafis@rieb.kobe-u.ac.jp"}
+  - {title: Github, icon: github, url: "https://dilnafis.github.io"}
+  - {title: Researchmap, icon: researchmap, url: "https://researchmap.jp/dilnafis"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com

@@ -18,7 +18,7 @@ show_social: true               # show site description and social links in the 
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "About me, icon: home}
+  - {file: "index.html", title: "About me", icon: home}
   - {file: "README.md", title: "CV", icon: home}
   - {file: "teaching.html", title: "Teaching", icon: home }
   - {file: "research.html", title: "Research", icon: home }

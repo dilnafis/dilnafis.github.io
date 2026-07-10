@@ -3,16 +3,6 @@ layout: default
 title: "Home"
 ---
 
-I am a project researcher
-{% if site.show_excerpts %}
-  {% for post in site.posts %}
-    <article>
-      {% include meta.html post=post %}
-      {{ post.excerpt }}
-      <footer class="button"><a href="{{ post.url | relative_url }}">read more</a></footer>
-    </article>
-  {% endfor %}
-{% else %}
-  {% capture source %}{% include_relative archive.html title="Posts" %}{% endcapture %}
-  {{ source | split: "---" | last }}
-{% endif %}
+I am a project researcher in the [Research Institute of Economics and Business Administration](https://www.rieb.kobe-u.ac.jp/en/index.html), Kobe University. My main areas of interest are in applied microeconomics, 
+primarily at the intersection of development economics, health economics, and personality psychology. My doctoral research focused on the Sri Lankan Civil War, specifically the effects of war exposure on health, labor market choices, 
+and the formation of beliefs and preferences. I am particularly interested in how beleifs, skills, and identities are formed, as well as their role in social integration.

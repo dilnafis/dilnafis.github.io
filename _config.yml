@@ -1,8 +1,8 @@
-title: "Blog Title"
+title: "Dinafeisi Aireti"
 author: "Blog Author"
 description: "My blog"
 permalink: /:title/
-lang: "en"
+lang: "en"  
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 

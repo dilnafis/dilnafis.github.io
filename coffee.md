@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-## &lt;3 Coffee Shops in Kobe
+## ♡ Coffee Shops in Kobe
 
 - [Nishimura Coffee](https://share.google/v4WYeBEGs51nfCtPO)
 - [TAOCA COFFEE / Rokko](https://share.google/Jo8YiHuLHcW90Nwjl)
@@ -11,13 +11,20 @@ title: ""
 - [CHARMANT Cafe & Coffee Roastery](https://maps.app.goo.gl/aFdUBJLjjKEELjFo8)
 - [Mother Moon Cafe Sannomiya](https://maps.app.goo.gl/3NkkLQT2XavWiT2U7)
 
-## Hikings in Japan
+## ♡ Hikes in Japan
 
 - [Mount Rokko](https://www.google.com/maps/search/?api=1&query=Mount+Rokko)
 - [Mount Maya](https://www.google.com/maps/search/?api=1&query=Mount+Maya+Kobe)
 - [Mount Haku](https://maps.app.goo.gl/GYr7w6ExHn6Y6fDC7)
 - [Mount Mizugaki](https://maps.app.goo.gl/1DVC4cbSMzxVobZF6)
 - [Kumano Kodo](https://maps.app.goo.gl/KLM5iALekKcbM8ET6)
+
+## Data
+-[Peace Research Institute Oslo (PRIO)](https://www.prio.org/data)
+-[ACLED(Armed Conflict Location & Event Data)](https://acleddata.com/conflict-data)
+-[World Value Survey](https://www.worldvaluessurvey.org/)
+-[Young Lives](https://www.younglives.org.uk/data-research)
+
 
 ## Random Links
 

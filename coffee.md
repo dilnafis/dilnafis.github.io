@@ -3,18 +3,21 @@ layout: page
 title: ""
 ---
 
-## Coffee Shops in Kobe
+## &lt;3 Coffee Shops in Kobe
 
-- [Nishimura Coffee](https://www.google.com/maps/search/?api=1&query=Nishimura+Coffee+Kobe)
+- [Nishimura Coffee](https://share.google/v4WYeBEGs51nfCtPO)
+- [TAOCA COFFEE / Rokko](https://share.google/Jo8YiHuLHcW90Nwjl)
 - [cafe香菜里屋](https://maps.app.goo.gl/o2DgADFfMejDAC4F8)
 - [CHARMANT Cafe & Coffee Roastery](https://maps.app.goo.gl/aFdUBJLjjKEELjFo8)
 - [Mother Moon Cafe Sannomiya](https://maps.app.goo.gl/3NkkLQT2XavWiT2U7)
 
-## Mountains in Japan
+## Hikings in Japan
 
 - [Mount Rokko](https://www.google.com/maps/search/?api=1&query=Mount+Rokko)
 - [Mount Maya](https://www.google.com/maps/search/?api=1&query=Mount+Maya+Kobe)
 - [Mount Haku](https://maps.app.goo.gl/GYr7w6ExHn6Y6fDC7)
+- [Mount Mizugaki](https://maps.app.goo.gl/1DVC4cbSMzxVobZF6)
+- [Kumano Kodo](https://maps.app.goo.gl/KLM5iALekKcbM8ET6)
 
 ## Random Links
 

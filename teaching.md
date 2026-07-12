@@ -2,11 +2,10 @@
 layout: page
 title: ""
 ---
-## Teaching Experience
 
-### Kobe University
+## Kobe University
 
-*Graduate School of International Cooperation Studies, Japan*
+Graduate School of International Cooperation Studies, Japan*
 
 **Part-time Lecturer**
 

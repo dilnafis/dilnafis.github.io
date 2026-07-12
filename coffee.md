@@ -31,7 +31,9 @@ title: ""
 
 - [I will derive!](https://www.youtube.com/watch?v=P9dpTTpjymE)
 - [Who are you, really?](https://www.youtube.com/watch?v=qYvXk_bqlBk&list=LL&index=293)
-- [16 Personalities](https://www.16personalities.com/free-personality-test)
+- [Our minds are weirder than you think](https://www.youtube.com/watch?v=dl0-TveDDGA)
+- [The periodic table song](https://www.youtube.com/watch?v=rz4Dd1I_fX0)
+- [16 personalities](https://www.16personalities.com/free-personality-test)
 
 <script>
 document.querySelectorAll('a[href^="http"]').forEach(function(link) {

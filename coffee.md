@@ -7,7 +7,7 @@ title: ""
 
 - [Nishimura Coffee](https://share.google/v4WYeBEGs51nfCtPO)
 - [TAOCA COFFEE / Rokko](https://share.google/Jo8YiHuLHcW90Nwjl)
-- [cafe香菜里屋](https://maps.app.goo.gl/o2DgADFfMejDAC4F8)
+- [Cafe 香菜里屋](https://maps.app.goo.gl/o2DgADFfMejDAC4F8)
 - [CHARMANT Cafe & Coffee Roastery](https://maps.app.goo.gl/aFdUBJLjjKEELjFo8)
 - [Mother Moon Cafe Sannomiya](https://maps.app.goo.gl/3NkkLQT2XavWiT2U7)
 

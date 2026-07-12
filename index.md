@@ -4,12 +4,10 @@ title: ""
 ---
 
 <div class="home-avatar">
-  <img
-    class="home-photo"
-    src="{{ '/assets/images/profile.jpg' | relative_url }}"
-    alt="Dinafeisi Aireti"
-  >
+  <img class="home-photo" src="/assets/images/profile.jpg" alt="Dina">
 </div>
+
+<h2>About me</h2>
 
 # About Me
 

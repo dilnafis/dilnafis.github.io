@@ -20,8 +20,9 @@ title: ""
 - [Kumano Kodo](https://maps.app.goo.gl/KLM5iALekKcbM8ET6)
 
 ## Data
-- [Peace Research Institute Oslo (PRIO)](https://www.prio.org/data)
-- [ACLED(Armed Conflict Location & Event Data)](https://acleddata.com/conflict-data)
+- [PRIO dataset](https://www.prio.org/data)
+- [ACLED dataset](https://acleddata.com/conflict-data)
+- [UCDP dataset](https://ucdp.uu.se/downloads/)
 - [World Value Survey](https://www.worldvaluessurvey.org/)
 - [Young Lives](https://www.younglives.org.uk/data-research)
 

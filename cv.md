@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
@@ -14,6 +14,6 @@ permalink: /cv/
 
 <p>
   <a href="{{ '/CV.pdf' | relative_url }}" target="_blank" rel="noopener">
-    Open or download the CV
+    Download my CV
   </a>
 </p>

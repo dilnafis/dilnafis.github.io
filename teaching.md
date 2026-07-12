@@ -3,9 +3,9 @@ layout: page
 title: ""
 ---
 
-## Kobe University
+## Kobe University, Japan
 
-*Graduate School of International Cooperation Studies, Japan*
+*Graduate School of International Cooperation Studies*
 
 **Part-time Lecturer**
 

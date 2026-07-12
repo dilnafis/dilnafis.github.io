@@ -11,7 +11,7 @@ title: ""
 **Part-time Lecturer**
 
 - **Microeconomics**  
-  Scheduled to begin in October 2026
+  Scheduled from October 2026
 
 **Teaching Assistant**
 

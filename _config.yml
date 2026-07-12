@@ -1,6 +1,10 @@
 title: "Dinafeisi Aireti (Dilnafis Ghayrat)"
 permalink: /:title/
 lang: "en"  
+
+
+description: "Personal website of Dinafeisi Aireti (Dilnafis Ghayrat)"
+
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 

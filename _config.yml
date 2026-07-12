@@ -29,7 +29,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: "Mail", icon: envelope, url: "mailto:dilnafis@rieb.kobe-u.ac.jp"}
   - {title: "Github", icon: github, url: "https://dilnafis.github.io"}
-  - {title: "Researchmap", icon: rss, url: "https://researchmap.jp/dilnafis"}
+  - {title: "Researchmap", icon: map, url: "https://researchmap.jp/dilnafis"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com

@@ -6,6 +6,8 @@ title: ""
 
 # About Me
 
+<img class="home-photo" src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Dinafeisi Aireti">
+
 I am a project researcher in the [Research Institute of Economics and Business Administration](https://www.rieb.kobe-u.ac.jp/en/index.html) at Kobe University. My main areas of interest are in applied microeconomics, 
 primarily at the intersection of development economics, health economics, and personality psychology. 
 

@@ -6,8 +6,9 @@ title: ""
 ## Coffee Shops in Kobe
 
 - [Nishimura Coffee](https://www.google.com/maps/search/?api=1&query=Nishimura+Coffee+Kobe)
-- [cafe香菜里屋]([https://share.google/Ffsxg9RBTQSANryr8](https://maps.app.goo.gl/o2DgADFfMejDAC4F8))
-- [CHARMANT Cafe & Coffee Roastery]([https://www.google.com/maps/search/?api=1&query=Voice+of+Coffee+Kobe](https://maps.app.goo.gl/aFdUBJLjjKEELjFo8))
+- [cafe香菜里屋](https://share.google/Ffsxg9RBTQSANryr8](https://maps.app.goo.gl/o2DgADFfMejDAC4F8)
+- [CHARMANT Cafe & Coffee Roastery](https://www.google.com/maps/search/?api=1&query=Voice+of+Coffee+Kobe](https://maps.app.goo.gl/aFdUBJLjjKEELjFo8)
+- [Mother Moon Cafe Sannomiya](https://maps.app.goo.gl/3NkkLQT2XavWiT2U7)
 - 
 
 ## Mountains

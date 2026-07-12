@@ -5,8 +5,8 @@ title: ""
 
 ## Working Papers
 
-Aireti, D. (2026). **“[Impressionable-Year Conflict Exposure and Locus of Control: Evidence from the Conflict-Affected Regions in Sri Lanka.](https://www.rieb.kobe-u.ac.jp/academic/ra/dp/English/dp2026-16.html)”** *RIEB Discussion Paper Series*, No. 2026-16, May 2026.  
-Under review at *Review of Development Economics*.
+Aireti, D. (2026). **“[Impressionable-Year Conflict Exposure and Locus of Control: Evidence from the Conflict-Affected Regions in Sri Lanka.](https://www.rieb.kobe-u.ac.jp/academic/ra/dp/English/dp2026-16.html)”** *RIEB Discussion Paper Series*, No. 2026-16, May 2026. Under review at *Review of Development Economics*.
+
 
 ## Work in Progress
 

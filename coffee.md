@@ -6,8 +6,9 @@ title: ""
 ## Coffee Shops in Kobe
 
 - [Nishimura Coffee](https://www.google.com/maps/search/?api=1&query=Nishimura+Coffee+Kobe)
-- [Kanariya](https://share.google/Ffsxg9RBTQSANryr8)
-- [Voice of Coffee](https://www.google.com/maps/search/?api=1&query=Voice+of+Coffee+Kobe)
+- [cafe香菜里屋]([https://share.google/Ffsxg9RBTQSANryr8](https://maps.app.goo.gl/o2DgADFfMejDAC4F8))
+- [CHARMANT Cafe & Coffee Roastery]([https://www.google.com/maps/search/?api=1&query=Voice+of+Coffee+Kobe](https://maps.app.goo.gl/aFdUBJLjjKEELjFo8))
+- 
 
 ## Mountains
 
@@ -17,4 +18,5 @@ title: ""
 
 ## Random Links
 
-- [A piece of art](https://www.youtube.com/watch?v=P9dpTTpjymE)
+- [I will derive!](https://www.youtube.com/watch?v=P9dpTTpjymE)
+- [Who are you, really?](https://www.youtube.com/watch?v=qYvXk_bqlBk&list=LL&index=293)

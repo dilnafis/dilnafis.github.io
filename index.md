@@ -19,6 +19,8 @@ primarily at the intersection of development economics, health economics, and pe
 My doctoral research focused on the Sri Lankan Civil War, specifically the effects of war exposure on health, labor market choices, 
 and the formation of beliefs and preferences. I am particularly interested in how beliefs, skills, and identities are formed, as well as their role in social integration.
 
+My name is pronounced as "Deel-Na-Fees Gh(like "r" sound in French)ai-Rat", I go by Dina.
+
 
 
 

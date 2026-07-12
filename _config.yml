@@ -24,6 +24,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {url: "/CV.pdf", title: "CV"}
   - {file: "teaching.md", title: "Teaching"}
   - {file: "research.md", title: "Research"}
+  - {file: "coffee.md", title: "Coffee Shops"}
+
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: "Mail", icon: envelope, url: "mailto:dilnafis@rieb.kobe-u.ac.jp"}

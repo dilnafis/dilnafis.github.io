@@ -11,7 +11,7 @@ baseurl: ""
 
 show_excerpts: false            # show article excerpts instead of archive list on the home page
 show_frame: true                # display a grey frame on large screens
-show_sidebar: true              # show a sidebar instead of the usual header
+show_sidebar: false             # show a sidebar instead of the usual header
 show_social: true               # show site description and social links in the footer
 show_frame: "/assets/images/background.svg"
 

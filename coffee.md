@@ -9,7 +9,7 @@ title: ""
 - [TAOCA COFFEE / Rokko](https://share.google/Jo8YiHuLHcW90Nwjl)
 - [Mother Moon Cafe Sannomiya](https://maps.app.goo.gl/3NkkLQT2XavWiT2U7)
 - [朔コーヒー](https://maps.app.goo.gl/DYswncYiqd6By4S17?g_st=ic)
-- [Kobe University Coop BEL BOX Cafeteria 神戸大学生協 BEL BOXカフェテリア](https://maps.app.goo.gl/egJbG9ShB2wWEpx37?g_st=ic) The one I drink most often is from the coffee machine here, and it is actually quite good!
+- [Kobe University Coop BEL BOX Cafeteria 神戸大学生協 BEL BOXカフェテリア](https://maps.app.goo.gl/egJbG9ShB2wWEpx37?g_st=ic) The one I'm having most often is from the coffee machine here, and it's actually quite good!
 
 
 ## My ♡ Hikes in Japan

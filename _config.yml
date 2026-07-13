@@ -26,7 +26,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "cv.md", title: "CV"}
   - {file: "teaching.md", title: "Teaching"}
   - {file: "research.md", title: "Research"}
-  - {file: "coffee.md", title: "🌐"}
+  - {file: "coffee.md", title: "Others"}
 
 
 external:                       # accepts {file, title, url, icon, sidebaricon}

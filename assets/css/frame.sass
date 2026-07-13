@@ -3,6 +3,16 @@
 
 @import utils, basic, layout, classes, rouge_github
 
+@keyframes frame-drift
+  0%
+    background-position: 45% 45%
+
+  50%
+    background-position: 55% 50%
+
+  100%
+    background-position: 45% 45%
+
 body
   background: light(93)
   background: light(93, 16)
@@ -25,12 +35,18 @@ body > header, body > footer
 
 @media (min-width: 60em)
   body
-    background: 0 0/cover url({{ site.show_frame | relative_url }})
+    background-image: url({{ site.show_frame | relative_url }})
+    background-size: 115% 115%
+    background-repeat: no-repeat
     background-attachment: fixed
+    background-position: 45% 45%
+    animation: frame-drift 50s ease-in-out infinite
     color-scheme: only light
     padding: 1em calc(38% - 22rem)
+
     > :first-child
       border-radius: 4px 4px 0 0
+
     > :last-child
       border-radius: 0 0 4px 4px
 

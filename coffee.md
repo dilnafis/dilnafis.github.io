@@ -3,15 +3,16 @@ layout: page
 title: ""
 ---
 
-## ♡ Coffee Shops in Kobe
+## My ♡ Coffee Shops in Kobe
 
 - [Nishimura Coffee](https://share.google/v4WYeBEGs51nfCtPO)
 - [TAOCA COFFEE / Rokko](https://share.google/Jo8YiHuLHcW90Nwjl)
-- [Cafe 香菜里屋](https://maps.app.goo.gl/o2DgADFfMejDAC4F8)
-- [CHARMANT Cafe & Coffee Roastery](https://maps.app.goo.gl/aFdUBJLjjKEELjFo8)
 - [Mother Moon Cafe Sannomiya](https://maps.app.goo.gl/3NkkLQT2XavWiT2U7)
+- [朔コーヒー](https://maps.app.goo.gl/DYswncYiqd6By4S17?g_st=ic)
+- [Kobe University Coop BEL BOX Cafeteria 神戸大学生協 BEL BOXカフェテリア](https://maps.app.goo.gl/egJbG9ShB2wWEpx37?g_st=ic) The one I drink most often is from the coffee machine here, and it is actually quite good!
 
-## ♡ Hikes in Japan
+
+## My ♡ Hikes in Japan
 
 - [Mount Rokko](https://www.google.com/maps/search/?api=1&query=Mount+Rokko)
 - [Mount Maya](https://www.google.com/maps/search/?api=1&query=Mount+Maya+Kobe)
@@ -25,6 +26,7 @@ title: ""
 - [UCDP dataset](https://ucdp.uu.se/downloads/)
 - [World Value Survey](https://www.worldvaluessurvey.org/)
 - [Young Lives](https://www.younglives.org.uk/data-research)
+- [Survey of Conflict-Affected Regions in Sri Lanka](https://sites.google.com/view/kojiyamazaki/sri-lanka-project?authuser=0)
 
 
 ## Random Links

@@ -36,6 +36,7 @@ title: ""
 - [Our minds are weirder than you think](https://www.youtube.com/watch?v=dl0-TveDDGA)
 - [The periodic table song](https://www.youtube.com/watch?v=rz4Dd1I_fX0)
 - [16 personalities](https://www.16personalities.com/free-personality-test)
+- [Know your Mizaj(https://unanitemperament.ccrumapps.in)]
 
 <script>
 document.querySelectorAll('a[href^="http"]').forEach(function(link) {
